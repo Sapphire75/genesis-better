@@ -3,10 +3,10 @@
 @charset "UTF-8";
 @import 'https://fonts.googleapis.com/css?family=Inconsolata';
 
-@import 'https://github.com/Sapphire75/genesis-better/raw/master/dark-teal/dt-color.css';
-@import 'https://github.com/Sapphire75/genesis-better/raw/master/global/geometry.css';
-@import 'https://github.com/Sapphire75/genesis-better/raw/master/global/dark.css';
-@import 'https://github.com/Sapphire75/genesis-better/raw/master/global/ahd.css';
-@import 'https://github.com/Sapphire75/genesis-better/raw/master/global/nobanner.css';
+@import 'https://raw.githubusercontent.com/Sapphire75/genesis-better/master/dark-teal/dt-color.css';
+@import 'https://raw.githubusercontent.com/Sapphire75/genesis-better/master/global/geometry.css';
+@import 'https://raw.githubusercontent.com/Sapphire75/genesis-better/master/global/dark.css';
+@import 'https://raw.githubusercontent.com/Sapphire75/genesis-better/master/global/ahd.css';
+@import 'https://raw.githubusercontent.com/Sapphire75/genesis-better/master/global/nobanner.css';
 
 #logo{background-image:url(https://github.com/Sapphire75/genesis-better/raw/master/img/dt.png);}
